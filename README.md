@@ -8,8 +8,8 @@ This is a **Financial Analysis Dashboard** built with `Python` and `Dash`, desig
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Report](![image](https://github.com/user-attachments/assets/2e2fccf9-d33a-4a81-880a-45a9fc4b7024)
-)
+![Dashboard Report]![image](https://github.com/user-attachments/assets/298c2f16-b424-47e6-bfb4-bd860fbed59c)
+
 
 
 ---
